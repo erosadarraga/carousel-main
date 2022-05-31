@@ -3,7 +3,7 @@ import Second from "../assets/WhatsApp Image 2022-05-31 at 10.20.11 AM.jpeg";
 import Third from "../assets/WhatsApp Image 2022-05-31 at 10.21.06 AM.jpeg";
 import four from "../assets/WhatsApp Image 2022-05-31 at 10.21.53 AM.jpeg";
 
-export default [
+const matriz = [
   {
     title: "First Slide",
     description: "https://chat.whatsapp.com/EeqPiOVPwf2Hqe4od7YLA3",
@@ -25,3 +25,5 @@ export default [
     urls: four,
   },
 ];
+
+export default matriz
