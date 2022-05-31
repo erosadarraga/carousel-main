@@ -14,7 +14,7 @@ function SliderContent({ activeIndex, sliderImage }) {
           <div className="slide-title">
             <a href={slide.description}>
               <button type="button" className="text-white  opacity-80 bg-green-700 hover:bg-green-500 focus:ring-4 focus:outline-none focus:ring-[#3b5998]/50 font-medium rounded-lg text-sm px-5 py-2.5 text-center inline-flex items-center dark:focus:ring-[#3b5998]/55 mr-2 mb-2">
-                <SiWhatsapp className="w-4 h-4 mr-2 -ml-1 " />
+                <SiWhatsapp className="mr-2 -ml-1 text-xl " />
                 Unete con Whatsapp
               </button>
             </a>
